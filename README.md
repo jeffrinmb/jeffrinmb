@@ -1,6 +1,6 @@
-<div style="width:100%">
+<!--<div style="width:100%">
 <img src="https://res.cloudinary.com/jeffrinmb/image/upload/v1632578394/GitHubProfile/Git_ReadMe_HeadPic_elarwb.png">
-</div>
+</div>-->
 
 # Hey There! 👋🏼
 
